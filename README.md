@@ -155,21 +155,13 @@ Esses campos permitem personalização sem alterar o código HTML.
 
 - Compatibilidade total com o **HUBsoft**
 - HTML puro (sem dependências externas)
-- CSS 100% inline
+- CSS 100% inline para compatibilidade
 - Layout baseado em tabelas
 - Conditional comments para Outlook (MSO)
 - Imagens externas com `display:block`
 - Uso mínimo de fontes customizadas
 - Estrutura limpa, organizada e comentada
 - Sem JavaScript (bloqueado por clientes de e-mail e pela plataforma)
-
-
-
-- CSS inline para compatibilidade
-- Imagens externas com `display:block`
-- Uso mínimo de fontes customizadas
-- Estrutura limpa e comentada
-- Sem JavaScript (bloqueado em e-mails)
 
 ---
 
