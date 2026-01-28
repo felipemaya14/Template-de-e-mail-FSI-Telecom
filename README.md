@@ -181,6 +181,16 @@ Projeto desenvolvido para uso institucional na **FSI Telecom** e publicado no Gi
 Este projeto pode ser reutilizado e adaptado livremente para fins educacionais ou profissionais.  
 Caso utilize comercialmente, ajuste textos, identidade visual e informações legais conforme sua empresa.
 
+## Aviso
+
+Este template foi desenvolvido por mim durante minha atuação profissional
+na empresa FSI Telecom, sendo publicado neste repositório **exclusivamente
+para fins de portfólio e demonstração técnica**.
+
+A identidade visual pertence à empresa e não representa um material oficial
+ou documento institucional.
+
+
 ---
 
 Se curtir ⭐ o projeto no GitHub, ajuda bastante 🙌
