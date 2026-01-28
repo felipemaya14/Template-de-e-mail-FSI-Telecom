@@ -77,6 +77,12 @@ O e-mail é dividido em blocos bem definidos:
    - Endereço físico
    - Link para o site oficial
 
+<div style="display: flex; gap: 10px;">
+  <img src="src/Template.png" style="width: 50%;">
+  <img src="src/code.png" style="width: 50%;">
+</div>
+
+
 ---
 
 ## 🔁 Campos Dinâmicos
